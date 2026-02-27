@@ -90,6 +90,7 @@ h2 {
   padding: 20px;
   border-radius: 8px;
   width: 23%;  /* 4 cards fit ho jayenge */
+ 
 }
 
 img {
@@ -97,6 +98,7 @@ img {
   height: 100px;
   background: black;
   border-radius: 8px;
+
 }
 a {
   color: #1a1717;
